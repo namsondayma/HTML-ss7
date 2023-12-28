@@ -1,0 +1,21 @@
+#font1{
+    color: rgb(183, 158, 147);
+}
+#space1{
+    position: relative;
+    left: 125px;
+}
+#space2{
+    position: relative;
+    left: 200px;
+}
+#space3{
+    position: relative;
+    left: 200px;
+}
+.table{
+    border: 1px black;
+    border-style: solid;
+    width: 1000px;
+    height: 200px;
+}
